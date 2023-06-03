@@ -1,0 +1,2 @@
+MemberVO{idNumber=1, id='admin', pwd='admin', name='admin', tell='010-1111-1111'}
+MemberVO{idNumber=1, id='admin', pwd='admin', name='admin', tell='010-1111-1111'}
